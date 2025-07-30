@@ -7,7 +7,7 @@ I’m looking to collaborate on AWS native projects
 
 Ask me about Cloud Computing
 
-Reach me at pedrogscarlassara@gmail.com
+Reach me at pedro@scarlassara.com
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-scarlassara-5880b6367/) 
