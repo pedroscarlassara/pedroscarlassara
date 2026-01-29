@@ -98,6 +98,7 @@
     </td>
   </tr>
 </table>
+Profile README inspired by @MacroPower's profile
 
 [linkedin]: https://www.linkedin.com/in/pedro-garcia-scarlassara/ "Pedro Scarlassara LinkedIn"
 [portfolio]: https://scarlassara.com "Pedro Scarlassara Portfolio"
