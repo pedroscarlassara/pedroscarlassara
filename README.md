@@ -98,7 +98,10 @@
     </td>
   </tr>
 </table>
-Profile README inspired by @MacroPower profile
+
+## Credits
+
+Profile README inspired by [MacroPower](https://github.com/MacroPower)
 
 [linkedin]: https://www.linkedin.com/in/pedro-garcia-scarlassara/ "Pedro Scarlassara LinkedIn"
 [portfolio]: https://scarlassara.com "Pedro Scarlassara Portfolio"
