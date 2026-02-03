@@ -1,11 +1,11 @@
-<h1 align="left" id="macropower-title">Pedro Scarlassara</h1>
+<h1 align="left" id="pedroscarlassara-title">Pedro Scarlassara</h1>
 <h3 align="left">Backend Developer</h3>
 
 <p align="left">
   <a href="https://scarlassara.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fscarlassara.com">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/pedroscarlassara?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pedroscarlassara?style=flat&logo=github">
   </a>
 </p>
@@ -22,56 +22,56 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Tools</h2>
+<h2 align="left" id="pedroscarlassara-tech">Tools</h2>
 
 > Tools, languages, and other things that I work with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./terraform-svgrepo-com.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./postman-icon-svgrepo-com.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./flask-svgrepo-com.svg" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./aws-svgrepo-com.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./sql-database-generic-svgrepo-com.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./git-svgrepo-com.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./linux-svgrepo-com.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./python-svgrepo-com.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -79,19 +79,19 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./javascript-svgrepo-com.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./css-3-svgrepo-com.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#pedroscarlassara-tech">
         <img src="./html-5-svgrepo-com.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
